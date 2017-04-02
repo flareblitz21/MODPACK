@@ -1,0 +1,42 @@
+{
+
+	"BBSWand":
+	{
+		"chance": 0,
+		"Message":
+		[
+			{"message":"Time to Build"}
+		],
+		"Item":
+		[
+			{"item":{"id":"betterbuilderswands:wandStone","Count":1,tag:{display:{Name:"Hey Chat, 123"}}}, "delay":20}
+		]
+	},
+
+	"BBIWand":
+	{
+		"chance": 15,
+		"Message":
+		[
+			{"message":"Time to Build"}
+		],
+		"Item":
+		[
+			{"item":{"id":"betterbuilderswands:wandIron","Count":1,tag:{display:{Name:"Hey Chat, 123"}}}, "delay":20}
+		]
+	},
+
+	"BBDWand":
+	{
+		"chance": 50,
+		"Message":
+		[
+			{"message":"Time to Build"}
+		],
+		"Item":
+		[
+			{"item":{"id":"betterbuilderswands:wandDiamond","Count":1,tag:{display:{Name:"Hey Chat, 123"}}}, "delay":20}
+		]
+	}
+
+}

@@ -1,0 +1,31 @@
+{
+  "modid": "witchery",
+  "segments": [
+    {
+      "class": "com.emoniph.witchery.item.ItemTaglockKit",
+      "type": "item",
+      "actions": "RIGHT_CLICK_ENTITY",
+      "isAdjacent": false,
+      "flags": "PVP"
+    },
+    {
+      "class": "com.emoniph.witchery.entity.EntityWitchProjectile",
+      "type": "entity",
+      "actions": "TRACKED",
+      "flags": "MODIFY",
+      "owner": [
+        {
+          "element": "func_85052_h",
+          "type": "METHOD"
+        }
+      ],
+      "range": 10
+    },
+    {
+      "class": "com.emoniph.witchery.entity.EntityVillageGuard",
+      "type": "entity",
+      "actions": "PROTECT",
+      "flags": "PVE"
+    }
+  ]
+}

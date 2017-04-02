@@ -1,0 +1,29 @@
+{
+
+	"DracNugg":
+	{
+		"chance": 50,
+		"Message":
+		[
+			{"message":"Well, it's a start!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"DraconicEvolution:nugget","Count":1},"Damage":1, "delay":20}
+		]
+	},
+
+	"DracTeleport":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"Hey! That's actually useful!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"DraconicEvolution:teleporterMKI","Count":1}, "delay":20}
+		]
+	}
+
+}

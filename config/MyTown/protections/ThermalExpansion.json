@@ -1,0 +1,48 @@
+{
+  "modid": "ThermalExpansion",
+  "segments": [
+    {
+      "class": "cofh.core.block.BlockCoFHBase",
+      "type": "block",
+      "actions": [ "RIGHT_CLICK", "LEFT_CLICK" ],
+      "meta": -1,
+      "flags": "ACCESS"
+    },
+    {
+      "class": "cofh.thermalexpansion.entity.projectile.EntityFlorb",
+      "type": "entity",
+      "actions": "TRACKED",
+      "flags": "MODIFY",
+      "owner": [
+        {
+          "element": "func_85052_h",
+          "type": "METHOD"
+        }
+      ],
+      "range": 5
+    },
+    {
+      "class": "cofh.thermalexpansion.item.tool.ItemToolBase",
+      "type": "item",
+      "actions": "RIGHT_CLICK_BLOCK",
+      "isAdjacent": false,
+      "flags": "MODIFY",
+      "range": 32
+    },
+    {
+      "class": "cofh.thermalexpansion.item.tool.ItemIgniter",
+      "type": "item",
+      "actions": [ "RIGHT_CLICK_BLOCK", "RIGHT_CLICK_ENTITY" ],
+      "isAdjacent": true,
+      "flags": "MODIFY",
+      "range": 32      
+    },
+    {
+      "class": "cofh.thermalexpansion.item.tool.ItemWrenchBattle",
+      "type": "item",
+      "actions": "RIGHT_CLICK_BLOCK",
+      "isAdjacent": false,
+      "flags": "MODIFY"
+    }
+  ]
+}

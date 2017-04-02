@@ -1,0 +1,8 @@
+## Title: SkyFactory
+## Author: Darkosto
+## Version: 1.0
+ExtraTiC.js
+chisel.js
+loot.js
+magicalcrops.js
+other.js

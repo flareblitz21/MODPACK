@@ -1,0 +1,163 @@
+                                        §4 2.5.6 Changelog                                        
+* §6Removed override tools from OreExcavation to allow wooden tools to veinmine properly
+* OreExcavation has been updated to fix crashes and alleviate most lag issues when mining large areas. Yes, Veinminer was removed and OreExcavation has replaced it. It literally does the same thing, it even has the same default key and everything!
+* §6Added Rubber Wood to the items that can be used in the Coke Oven
+* Storage Drawer Upgrade Template recipes should now show correctly
+* §6Fixed the recipes for MFR Laser Foci so any stained glass will work
+* The updates to IchunUtils and Sync should now fix any void death related issues, and hopefully a number of other bugs
+* §6Mod updates: OreExcavation, CraftTweaker, Sync, IchunUtil, Storage Drawers, Chance Cubes, Carpenter's Blocks, Mercurius, Extra Cells, Immibis Core, Custom Things, Ewy's Workshop, EnderCore
+
+------------------------------------------------------------------
+
+                                        §4 2.5.5 Changelog
+* §6Fixed typo in the Simple Achievements book
+* Added a new achievement page for RF Tools specific achievements
+* §6Added a SAG Mill recipe for Draconium Ore to Draconium Dust
+* Edited the GUI for multiple mods so everything isn't in the same place (Draconic Evolution, etc.)
+* §6Edited the recipe to get Air Shards from hammering Sandstone Slabs, it wasn't very easy to figure out you needed two slabs on top of each other. It now requires you to hammer sandstone
+* Added Witchery Torn Pages as Loot Bag drops and as a crafting recipe
+* §6Added a Loot Recycler value to Seared Bricks
+* Added missing Thaumcraft Aspects to various items: Hemp Seeds, Hemp Fibre
+* §6All Natura Leaves will now compost in a barrel
+* Fixed Natura Amaranthus Logs not giving the correct planks in a Sawmill
+* §6Single Compressed Cobblestone now smelts into Single Compressed Stone in furnaces
+* Added the remaining saplings from Natura to the Minefactory Reloaded Planter
+* §6Added a number of blocks to the Applied Energistics 2 Facade list
+* Made Limestone and Marble Small Stones craftable from full blocks for player convenience
+* §6Lowered the weight of the Stable Ingots in Loot Bags so they appear less often
+* Added OreExcavation to replace Veinminer. This will fix crashes with Veinminer. Since Draconic Evolution is using it's block breaking code, all Draconic Tools have to be removed as tools that can "veinmine" or else a crash will occur. This is the best case scenario to prevent crashes and have a majority of tools still mass mine and eliminate other crashes veinminer was causing
+* §6Removed OpenEye, FoxLib, Mobius Core, Tabula Rasa, Infibows
+* Disabled Minefactory Reloaded sounds to help with performance
+* §6Added Blue Slime, Green Slime, and Plastic parts into Tinker's Tool part list
+* Tinkers' tool parts that were not showing in NEI before are now visable
+* §6Doubled the RF cost and lowered the item results when pulverizing/sag milling armor
+* Unified all types of flour
+* §6Added "Block of Charcoal" mod to give... A block of charcoal
+* Added a recipe for the Deep Dark with Mobius Ingots
+* §6Fixed many mods and their NEI integrations showing/hiding important information (Thank you SnowShock)
+* Added a recipe for Alder Slabs from Witchery
+
+------------------------------------------------------------------
+
+                                        §4 2.5.4 Changelog
+* §6Updated the following mods: Draconic Evolution, CustomThings, Mod Tweaker, Minefactory Reloaded, Storage Drawers, and Veinminer                                          
+* Fixed Diamond Boots giving Leather in a Sag Mill      
+* §6Fixed the typo in the 2.5.3 changelog since people are very nice and let me know in a respectful and loving manner                             
+* Added a recipe to turn Ex Nihilo Aluminum Ingots into Blocks
+* §6Fixed names in the headcrumbs config that were incorrect causing heads not to drop
+* Edited the InpureCore scripts to eliminate a lag spike when loading a world
+* §6Turned off auto-refill from Inventory Tweaks since it does not work as intended a majority of the time
+* Added many incorrectly registered blocks to the Ex Nihilo Crook blacklist to eliminate a duplication bug
+* §6Added a few items to the Loot bag Table including tier 1 experience rings
+* Fixed Yellorium not auto-smelting or not properly working in the Infernal Furnace
+
+------------------------------------------------------------------
+
+                                        §4 2.5.3 Changelog
+* §6Updated Mods: Minefactory Reloaded, Forbidden Magic, EnderIO, EnderCore, Carpenter's Blocks, Infinite Invo, and Draconic Evolution, Chance Cubes, Loot Bags, Apple Core, Ranchable Fluid Cows, Storage Drawers, Vein Miner, MpUtils, Ex Compressum, Ex Nihilo, Simple Labels, Loot Bags, Loot++, Baconator, TwitchCrumbs
+* Went through each moofluid cow to make sure I didn't miss any useless fluids (turned Zinc, RedAurum, and Brass off Turned Cloud Seed and Liquid Sunshine back on)
+* §6Added back the Experience Rings mod
+* Switched the NEI Hidden items to using InPureCore primarily to alleviate the Minetweaker issues of hiding incorrect items
+* §6Fixed the bug where players would lose all hunger/durability when Vein Mining an Ender IO conduit
+* Turned off Taint Spread from Thaumcraft
+* §6Turned off Chance Cube rewards that flip the map/chunks since it does not apply to this particular modpack                                       
+* Added Infested leaves to the composting list
+* §6Added Tinkers' Clear Glass to the ore:glass OreDictionary table
+* Increased the amount of Dimlets that appear in Loot Bags from 1-2 to 2-4
+* §6Enabled Dark Steel to be cast from a smeltery, added the Dark Steel Cow back
+* Added any remaining Pam's Harvestcraft Seeds to drop from Grass that were missed
+* §6Removed the Decocraft outlines
+* Added the ability to pour destabilized redstone into a casting basin or into a gem cast for vanilla redstone
+* §6Removed the Maze reward from Chance Cubes
+* Fixed the recipe conflict for the Weather Crystal and Diamond Nuggets by adding shaped recipes to get each
+* §6Fixed Single-Use Safari Nets not being craftable in an ME terminal due to the recipe giving 3 safari nets which are not stackable items
+* Added in new recipes for the AE2 Grindstone, SAG Mill, IE Crusher, and Pulverizer to break items down (Vanilla Armor, Saddle) and also added ore dust doubling when necessary 
+* §6Removed the Loot Crate Assets from the SkyFactory Resource Pack due to copyright
+* Change display type of AE2 to be all RF for continuity, also turned off AE2 version checking
+* §6Changed the achievement book to "Enslave Some Hobgoblins", Not Kobolds
+* Finally found and re-enabled mob heads to drop from non-player methods
+* §6Created new scripts to allow any of the Unstable Tool parts to be casted (Can only happen in the basin, not the table)
+* Loot Values should now be fixed. Values are based on item weighting in loot bags and give more than a value of 1
+* Fixed the ability to duplicate Loot Bags
+
+------------------------------------------------------------------
+
+                                        §4 2.5.2 Changelog
+* Updated "It's Raining Food" to fix a server crash issue when it rains
+* §6Fixed Aluminum Ore Sand and Gravel to be pulverized                          
+
+------------------------------------------------------------------
+
+                                        §4 2.5.1 Changelog
+* Added Bone, Flint, Paper, Slime, and Blue Slime to more available tool parts
+* §6Removed all ore generation in the void that should not have been there
+* Removed In-Game Wiki, since it decided to just install itself
+* §6Removed Dungeon Chest Loot from Loot Bags and updated NEI Lootbags to stop infinite resources from being created through the recycler (these easily recycleable items were introduced in 2.5 as a bug due another mod update/config change)
+* Reduced the rarity of MooFluid Cows from 8 to 7, since Vanilla Cows are not correctly spawning
+* §6Added FTB Islands to the pack to allow a better Multiplayer experience. You can now create islands (either standard tree on dirt or 3x3 island with chest) for other players through commands:
+
+http://mods.curse.com/mc-mods/minecraft/243538-ftb-islands
+
+* Fixed Moofluids to not spawn useless liquids and to allow ingots/blocks to be made from others
+* §6Removed the Utility Mobs mod due to the incredibly high amount of exploits it can be used for and other issues reported by users
+* Rearranged the scripts to allow linux and mac based systems to craft iron ingots from iron blocks
+* §6 Removed Experience rings due to players able to get near infinite amounts of experience with it
+* Created recipes to go back and forth between Ex Nihilo gravel, sand, and dust blocks to their respective pieces allowing c ompacting drawers to store them easily
+* §6Added pulverizer recipes for Aluminum gravel, sand, and dust because they were never added by the mod itself
+* Added an Ex Nihilo Aluminum Ingot to Nugget recipe
+* §6Turned off the Mouse Tweaks LMB Drag with Item for convenience purposes
+* Fixed the conflicting recipes for Ceramic Dye and Porcelain Clay
+* §6Removed sprinting from the Tree Growing Simulator mod to eliminate an exploit for infinite bonemeal and RF
+* Added Immersive Engineering Aluminum Nuggets to the Ore Dictionary so that it may be used in recipes
+* §6Made the Deep Storage Unit a bit easier to craft
+* Changed the Ex Compressum config option to "Use up" an upgrade book over time
+* §6Removed Filing Cabinet recipes and hid them from NEI to fix a duplication glitch
+* Removed the Pam's Harvestcraft Market to fix a dupe bug
+* §6AE2 Stuff was updated to work with the current version of Applied Energistics
+* Slightly, ever-so-slightly, turned down the drop chance of Loot Bags
+* §6Removed Witchery Owls from the Auto Spawner list, yet another dupe glitch
+* Added all Pam's Tree Saplings to Podzol Sieve Table
+* §6Cows, Pigs, Chickens, and Sheep now have craftable spawn eggs
+* Removed Crafting Table IV and ElecCore due to crashes and Server login issues. Replaced with Ewy's Workshop
+* §6Rebalanced all of the food composting values to take into account recipe difficulty
+* Infusion Stones no longer need to be full durability to craft with
+* §6Added the Loot++ mod
+* In an effort to lesson confusion amongst players, the Inscriber recipes in NEI have been hidden
+* §6Updated the JABBA mod to fix many bugs, including a major duplication bug.
+* Removed the Forge Lexicon due to a crash, it's functionality can be replaced by a myriad of other items/blocks
+* §6Disabled the chance of getting Silk Touch and fiery as upgrade modifiers from Iguana Tweaks
+* Removed a number of exploitable items from the Loot Recycler, like sticks
+* §6Fixed the song Flashlight from not playing due to an incorrect filename
+* Added tooltip text to the Compressed Hammers to alert players their inability to veinmine compressed block
+* §6Removed the In-Game Info XML redundant item name on the middle left portion of the screen
+* Removed a number of superfluous items from NEI
+* §6Added Natura Sulfur to the Sulfur Ore Dictionary list
+* Added the Infinibow(Infinity Bow Fix) mod to the pack
+* §6Baconator's are now able to auto-feed and be eaten when you're hungry like normal foods
+
+------------------------------------------------------------------
+
+                                        §4 2.5 Changelog
+* §6Updated Bibliocraft to fix a dupe bug
+* Removed the Ender Collector to remove a dupe bug
+* §6Fixed Dupe bug with Extra Utilities / Botania (Division Sigils no longer give iron back)
+* Removed Tinkers' Mechworks to fix dupe bug
+* §6Added more food items to Baconators
+* Removed Extra Cells Certus Tank to eliminate dupe bug
+* §6Removed the Slotted Book to fix yet another dupe bug
+* Removed the Dev Null to fix another dupe bug
+* §6Loot bags can not be opened and then combined with each other, once opened that's it
+* Proofread and added new achievements to the Simple Achievements Book
+* §6Added MPUtils to allow changelog viewing in-game
+* Removed fireworks from achievements
+* §6Rebalanced the Loot Bag drops
+* Added Bacon_Donut's twitch whitelist to Headcrumbs
+* §6Added FTB Utils and FTBLib
+* Took out Chance Cube reward turning light sources into Creepers
+* §6Added both Aluminum and Iron versions to craft Extra Utilities Transfer Pipes
+* Compressed Sand, Gravel, Dust, and Dirt now give back the equivalent of 7 blocks when sieved
+* §6Tweaked drop rates of flint, certus quartz dust
+* Turned off mod update notifications
+* §6Added more Tinkers' parts that can be made from Bone
+* Removed mods: 3D Furnace mod, ArmorStatusHud, AutoFood, Autopackager, Better Title Screen, Cosmetic Armor, Damage Indicators, Ender Utilities, Food Plus, Liquid XP, Lucky Blocks, Minefactory Magical Crops Compatibility, Plugin Messages, Reliquary, WAILA NBT, Tinkers' Mechworks
+* §6Added mods: Additional Resources, AppleCore, AromaCore, AromaBackup, AudioDeath, Better Builder Wands, Brandons Core, Chance Cubes, CoFHLib, Compacter, Cooking for Blockheads, Crafting TableIV, Custom Main Menu, Ding, ElecCore, EnderCore, Ex Compressum, Garden of Glass, Immersive Engineering, Immersive Integration, INpureCore, Journey Map, KleeSlabs, MCJTYLIB, Mouse Tweaks, Pam's Harvestcraft, Resource Loader, Sampler, Simple Labels, Snad, Steve's Factory Manager, Storage Drawers, Storage Drawers-Natura, TCInventoryScan, TiCTooltips, TMechworks, TwitchCrumbs, WAILA Plugins, WitherCrumbs

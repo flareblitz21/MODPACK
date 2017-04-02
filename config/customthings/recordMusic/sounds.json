@@ -1,0 +1,92 @@
+{
+  "records.customthings.blackswan": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/blackswan",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.ding": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ding",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.flashlight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/flashlight",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.infected": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/infected",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.pharaoh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/pharaoh",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.raw": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/raw",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.robotpirate": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/robotpirate",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.shiftinggears": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/shiftinggears",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.sparks": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/sparks",
+        "stream": true
+      }
+    ]
+  },
+  "records.customthings.storms": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/storms",
+        "stream": true
+      }
+    ]
+  }
+}

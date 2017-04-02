@@ -1,0 +1,125 @@
+{
+
+	"flashlight":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:flashlight","Count":1}, "delay":20}
+		]
+	},
+	"sparks":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:sparks","Count":1}, "delay":20}
+		]
+	},
+	"ding":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:ding","Count":1}, "delay":20}
+		]
+	},
+	"infected":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:infected","Count":1}, "delay":20}
+		]
+	},
+	"storms":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:storms","Count":1}, "delay":20}
+		]
+	},
+	"shiftinggears":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:shiftinggears","Count":1}, "delay":20}
+		]
+	},
+	"robotpirate":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:robotpirate","Count":1}, "delay":20}
+		]
+	},
+	"blackswan":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:blackswan","Count":1}, "delay":20}
+		]
+	},
+	"pharaoh":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:pharaoh","Count":1}, "delay":20}
+		]
+	},
+
+	"raw":
+	{
+		"chance": 75,
+		"Message":
+		[
+			{"message":"PLAY IT LOUD!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"customthings:raw","Count":1}, "delay":20}
+		]
+	}
+
+}

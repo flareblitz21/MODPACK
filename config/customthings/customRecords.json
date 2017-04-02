@@ -1,0 +1,54 @@
+{"data":
+	[
+		{
+			"name": "raw",
+			"color": 16740607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "blackswan",
+			"color": 14740607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "robotpirate",
+			"color": 13740607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "shiftinggears",
+			"color": 12740607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "flashlight",
+			"color": 12740607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "sparks",
+			"color": 13340607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "storms",
+			"color": 12140607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "ding",
+			"color": 10140607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "infected",
+			"color": 11140607,
+			"isCreeperLoot": true
+		},
+		{
+			"name": "pharaoh",
+			"color": 15740607,
+			"isCreeperLoot": true
+		}
+	]
+}

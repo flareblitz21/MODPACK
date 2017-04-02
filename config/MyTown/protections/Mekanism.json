@@ -1,0 +1,41 @@
+{
+  "modid": "Mekanism",
+  "segments": [
+    {
+      "class": "mekanism.common.item.ItemAtomicDisassembler",
+      "type": "item",
+      "actions": "LEFT_CLICK_BLOCK",
+      "isAdjacent": false,
+      "flags": "MODIFY"
+    },
+    {
+      "class": "mekanism.common.item.ItemConfigurator",
+      "type": "item",
+      "actions": "RIGHT_CLICK_BLOCK",
+      "isAdjacent": false,
+      "flags": "MODIFY"
+    },
+    {
+      "class": "mekanism.common.block.BlockBounding",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    },
+    {
+      "class": "mekanism.common.block.BlockBasic",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    },
+    {
+      "class": "mekanism.common.block.BlockMachine",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    }
+  ]
+}
+
